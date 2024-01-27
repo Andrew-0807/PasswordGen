@@ -7,7 +7,6 @@ string.ascii_uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 string.ascii_letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 string.digits = '0123456789'
 string.punctuation = '@#$%&!?'
-
 characters = string.digits + string.punctuation
 
 password = ""   
